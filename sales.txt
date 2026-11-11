@@ -1,0 +1,31 @@
+order_id,product,quantity,price,city
+101,Laptop,1,65000,Bangalore
+102,Mouse,2,1200,Delhi
+103,Keyboard,1,2500,Hyderabad
+104,Monitor,2,15000,Chennai
+105,Headphones,3,1800,Mumbai
+106,Laptop,1,62000,Delhi
+107,Mouse,5,1100,Bangalore
+108,Webcam,2,3200,Pune
+109,Keyboard,2,2200,Mumbai
+110,Monitor,1,14500,Hyderabad
+111,USB Drive,4,700,Chennai
+112,Laptop,2,64000,Pune
+113,Headphones,1,2100,Delhi
+114,Mouse,3,1250,Hyderabad
+115,Webcam,1,3500,Bangalore
+116,Monitor,2,15500,Mumbai
+117,Keyboard,3,2400,Chennai
+118,USB Drive,6,650,Pune
+119,Laptop,1,67000,Mumbai
+120,Headphones,2,1900,Hyderabad
+121,Mouse,1,1300,Chennai
+122,Monitor,3,14800,Delhi
+123,Webcam,2,3300,Mumbai
+124,Keyboard,1,2600,Bangalore
+125,USB Drive,5,750,Hyderabad
+126,Laptop,1,65500,Chennai
+127,Headphones,4,1750,Pune
+128,Mouse,2,1150,Mumbai
+129,Monitor,1,15200,Bangalore
+130,Webcam,3,3100,Delhi
